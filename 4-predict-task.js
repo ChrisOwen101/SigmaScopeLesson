@@ -3,7 +3,7 @@ function one() {
   var a = 10;
 }
 one();
-console.log(a); // what is the value of a
+console.log(a); // what is printed to the console and why?
 
 // 2.
 let money;
@@ -11,7 +11,7 @@ function giveMoney() {
   money = 25;
 }
 two();
-console.log(money); // what is the value of money and why
+console.log(money); // what is printed to the console and why?
 
 // 3.
 let total = 0;
@@ -23,14 +23,14 @@ function three() {
 }
 
 three();
-console.log(total); // what is the value of total and why
+console.log(total); // what is printed to the console and why?
 
 // 4.
 function four() {
   if (true) {
     let f = 50;
   }
-  console.log(f); // what is the value of f and why
+  console.log(f); // what is printed to the console and why?
 }
 
 four();
@@ -47,4 +47,4 @@ function five() {
   greet();
 }
 five();
-console.log(e); // what is the value of e and why
+console.log(e); // what is printed to the console and why?

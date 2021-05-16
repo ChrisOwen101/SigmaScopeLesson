@@ -4,7 +4,7 @@ In this 15 minute session we'll be covering Scope in JavaScript.
 
 You can find the learning objectives [here](./0-learning-objectives.md)
 
-## Proir Knowledge 
+## Prior Knowledge
 
 Students are expected to have a good grasp of JS syntax and be able to use
 
@@ -20,5 +20,4 @@ Students are expected to have a good grasp of JS syntax and be able to use
   - It uses peer to peer learning at one point
   - It uses Group Response techniques by way of a formative evaluation
 - [Active Live Coding](https://carpentries.github.io/instructor-training/14-live/) is used to demonstrate scope in action
-  - Students should purposefully be "shocked" to learn that their expectations are proven wrong
-- 
+  - Students should purposefully be "shocked" to learn that their assumptions are proven wrong
