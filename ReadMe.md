@@ -2,7 +2,7 @@
 
 In this 15 minute session we'll be covering Scope in JavaScript.
 
-You can find the learning objectives [here](./0-learning-objectives)
+You can find the learning objectives [here](./0-learning-objectives.md)
 
 ## Proir Knowledge 
 
