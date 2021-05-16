@@ -1,6 +1,8 @@
 // For this task - as I say each variable name I want you to say if it is Global, Local or Block scope.
 // Use hand signals for each
-//
+// Open hand - Global Scope
+// Three Fingers - Local Scope
+// Closed Fist - Block Scope
 
 // ===========
 
