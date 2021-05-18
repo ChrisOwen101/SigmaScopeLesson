@@ -1,3 +1,15 @@
+/* Scope Task
+
+Below, you will find a solution to a previous weeks coursework. You should follow the below instructions and insert variables at the correct scope
+
+1. Add a locally scoped variable named "password" with the value "thisismypassword". 
+2. Add a globally scoped variable named "morePasswords" with the value of an array possible passwords
+3. Add a block scoped variable named "block" and containing the number 1331341
+
+*/
+
+/////////////////////////////
+
 /* 
 Password Validation
 Write a program that should check if each password in an array 
@@ -14,10 +26,6 @@ Example 1:
 PreviousPassword = ["fhD8!yrjj", "ttkTu.wer3", "dvyyeyY!5", "qwbfj76%", "tytT3729."];
 Expected Result:
 PasswordValidationResult=  [false, false, false, false, true]
-*/
-
-/*
-CHECK OUT solutions.md FOR MORE INFO ON OUR SOLUTION
 */
 
 function validatePasswords(passwords) {
