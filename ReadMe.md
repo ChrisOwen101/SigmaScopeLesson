@@ -17,6 +17,7 @@ Students are expected to have a good grasp of JS syntax and be able to use
 ## Delivery Notes
 
 - I've applied the "I do, We do, You do" framework to plan this lesson
+- I use [Ellaborative Encoding](https://wp.uplearn.co.uk/science-behind-up-learn/#Elaborative-Encoding-and-Visceralisation) to link the knowledge to what they know
 - This lesson was written for a class of between 15-20.
   - It uses peer to peer learning at one point
   - It uses Group Response techniques by way of a formative evaluation
